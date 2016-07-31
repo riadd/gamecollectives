@@ -1,0 +1,136 @@
+- name: Saftladen
+  coworking: true
+  country: de
+  city: berlin
+  latitude: 52.50369
+  longitude: 13.41956
+  address: Waldemarstr. 37a, 10999 Berlin, Germany
+  personCount: 11
+  established: 2015
+  twitter: saftladenberlin
+  facebook: saftladenberlingames
+  website: http://saftladen.berlin
+  email: info@saftladen.berlin
+  cost: 160
+  
+- name: Copenhagen Game Collective
+  personCount: 14
+  established: 2008
+  country: denmark
+  city: copenhagen
+  facebook: cphgc
+  twitter: cphgc
+  website: http://www.copenhagengamecollective.org/
+  email: info@cphgc.org
+  
+- name: Dutch Game Garden
+  website: http://www.dutchgamegarden.nl/
+  
+- name: Glitch City
+  website: http://glitch.city
+  facebook: GlitchCityLA
+  twitter: GlitchCityLA
+  instagram: glitchcityla
+  email: glitchcityla@gmail.com
+  address: 8714 Washington Blvd, Culver City, CA 90232
+  city: culver city
+  state: los angeles
+  country: us
+  
+- name: Bergen Game Collective
+  website: http://www.bergengamecollective.com/
+  address: Edvard Griegs Vei 3A 5058, Bergen
+  country: 'no'
+  city: bergen
+  email: aleksander@bergengamecollective.com
+  
+- name: Klondike collective
+  coworking: false
+  country: fr
+  personCount: 10
+  twitter: klondk
+  facebook: klondikecollective
+  website: http://klondike.fr/
+  
+- name: Juegos Rancheros
+  website: http://juegosrancheros.com/
+  facebook: JuegosRancheros
+  twitter: juegosrancheros
+  established: 2011
+  city: austin
+  country: us
+  
+- name: Biome Collective
+  website: http://www.biomecollective.com/
+  twitter: biomecollective
+  facebook: biomecollective
+  city: dundee
+  country: gb
+  coworking: true
+  established: 2016
+  
+- name: Tripleclaim
+  website: http://tripleclaim.com/
+  facebook: TripleClaim
+  twitter: tripleclaim
+  email: contact@tripleclaim.com
+  city: Sarajevo
+  country: ba
+  address: Kemala Kapetanovica 36, 7100 Sarajevo, BiH
+  comments: not sure if really a game collective
+  
+- name: The Haberdashery Collective
+  website: http://www.habgames.com/
+  
+- name: Hamar Game Collective
+  address: Torggata 74, 2317 Hamar, Norway
+  
+- name: Bento Miso
+  website: https://bentomiso.com/
+  
+  address: 100 - 862 Richmond Street West Toronto, ON M6J 1C9 Canada
+  country: ca
+  city: toronto
+  coworking: true
+  
+- name: PHL Collective
+  website: http://phlcollective.com/
+  
+- name: playhubs
+  website: http://playhubs.com/
+  
+- website: http://gameplayspace.com/
+
+- website: http://thegamenest.com/
+
+- website: http://phillygameforge.com/
+
+- website: http://www.techvalleygamespace.com/
+
+- website: http://gameassembly.org/
+
+- website: http://buffalogamespace.com/misc/index
+
+- website: http://indiesworkshop.com/
+
+- name: the Arcade
+  website: thearcade.melbourne/
+  
+- website: http://louisvillemakesgames.org/warpzone/
+
+- website: http://pigsquad.com/
+
+- website: http://seattleindies.org/
+
+- name: Brighton Game Collective
+  coworking: true
+  website: http://brightongamecollective.com/
+  country: en
+  city: brighton
+  
+- name: Indie Game Collective
+  personCount: 5
+  website: http://www.indiegamecollective.org/
+  country: us
+  state: massachusetts
+  city: boston

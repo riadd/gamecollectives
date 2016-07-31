@@ -1,0 +1,29 @@
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Cuprum', sans-serif;
+font-family: 'Slabo 27px', serif;
+*/
+
+body {
+  background-color: #222;
+  text-align: center;
+
+  padding: 0;
+  margin: 0;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  margin: 20px;
+  color: white;
+  font-family: 'Raleway', serif;
+}
+
+#map {
+  height: 100%;
+}
+
+
