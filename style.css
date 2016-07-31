@@ -9,20 +9,19 @@ font-family: 'Slabo 27px', serif;
 
 body {
   background-color: #222;
+  color: white;
   text-align: center;
-
   padding: 0;
   margin: 0;
-  font-family: 'Lora', serif;
+  font-family: 'Raleway', serif;
 }
 
 h1 {
   margin: 20px;
-  color: white;
-  font-family: 'Raleway', serif;
 }
 
 #map {
+  margin: 80px;
   height: 100%;
 }
 

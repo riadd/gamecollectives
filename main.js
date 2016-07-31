@@ -11,9 +11,13 @@ function initMap() {
     db = jsyaml.load(data);
 
     db.forEach(col => {
-      if (col.latitude) {
+      if (col.geoLocation) {
+        var location =  col.geoLocation.split(',')
+        var lat = parseFloat(location[0])
+        var lng = parseFloat(location[1])
+
         new google.maps.Marker({
-          position: {lat: col.latitude, lng: col.longitude},
+          position: {lat: lat, lng: lng},
           map: map,
           title: col.name
         });
@@ -22,6 +26,13 @@ function initMap() {
       }
     })
   });
+
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function (position) {
+      initialLocation = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+      map.setCenter(initialLocation);
+    });
+  }
 
 }
 

@@ -2,9 +2,8 @@
   coworking: true
   country: de
   city: berlin
-  latitude: 52.50369
-  longitude: 13.41956
   address: Waldemarstr. 37a, 10999 Berlin, Germany
+  geoLocation: 52.50369,13.41956
   personCount: 11
   established: 2015
   twitter: saftladenberlin
@@ -33,6 +32,7 @@
   instagram: glitchcityla
   email: glitchcityla@gmail.com
   address: 8714 Washington Blvd, Culver City, CA 90232
+  geoLocation: 34.0292870,-118.3842840
   city: culver city
   state: los angeles
   country: us
@@ -40,6 +40,7 @@
 - name: Bergen Game Collective
   website: http://www.bergengamecollective.com/
   address: Edvard Griegs Vei 3A 5058, Bergen
+  geoLocation: 60.3730530,5.3411430
   country: 'no'
   city: bergen
   email: aleksander@bergengamecollective.com
@@ -53,6 +54,7 @@
   website: http://klondike.fr/
   
 - name: Juegos Rancheros
+  coworking: false
   website: http://juegosrancheros.com/
   facebook: JuegosRancheros
   twitter: juegosrancheros
@@ -76,7 +78,8 @@
   email: contact@tripleclaim.com
   city: Sarajevo
   country: ba
-  address: Kemala Kapetanovica 36, 7100 Sarajevo, BiH
+  address: Kemala Kapetanovica 36, 7100 Sarajevo
+  geoLocation: 43.8509210,18.3889810
   comments: not sure if really a game collective
   
 - name: The Haberdashery Collective
@@ -84,11 +87,12 @@
   
 - name: Hamar Game Collective
   address: Torggata 74, 2317 Hamar, Norway
+  geoLocation: 60.7950200,11.0700690
   
 - name: Bento Miso
   website: https://bentomiso.com/
-  
   address: 100 - 862 Richmond Street West Toronto, ON M6J 1C9 Canada
+  geoLocation: 43.6445310,-79.4122630
   country: ca
   city: toronto
   coworking: true
