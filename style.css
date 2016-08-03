@@ -16,13 +16,84 @@ body {
   font-family: 'Raleway', serif;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}
+
 h1 {
   margin: 20px;
 }
 
-#map {
-  margin: 80px;
-  height: 100%;
+#content {
+  text-align: center;
+  width: 1200px;
+  margin: 20px auto;
 }
 
+#header {
+  margin: 0 20px;
+  font-size: 0.8em;
+  text-align: left;
+}
+
+#intro .col {
+  display: inline-block;
+  width: 22%;
+  vertical-align: top;
+  font-size: 0.8em;
+  padding: 10px;
+  text-align: justify;
+}
+
+#intro .col i {
+  float: left;
+  padding: 20px;
+  font-size: 2.0em;
+}
+
+#map {
+  margin: 40px 0;
+  height: 600px;
+}
+
+#map .gm-style {
+  background-color: #222;
+}
+
+#map .gm-style-iw {
+  padding: 2px;
+  color: #222;
+}
+
+#map .gm-style-iw i {
+  color: #222;
+  border: none;
+  font-size: 1.8em;
+  padding: 5px;
+}
+
+#map .gm-style-iw ul {
+  margin: 20px;
+  padding: 0;
+}
+
+#map .gm-style-iw ul li {
+  list-style: none;
+  padding: 2px;
+}
+
+#map .gm-style-iw i.inactive {
+  color: #ccc;
+}
+
+#footer {
+  text-align: right;
+  font-size: 0.9em;
+}
+
+#footer i {
+  font-size: 1.5em;
+}
 

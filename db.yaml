@@ -12,7 +12,7 @@
   email: info@saftladen.berlin
   country: de
   city: berlin
-  address: Waldemarstr. 37a, 10999 Berlin, Germany
+  address: Waldemarstr. 37a | 10999 Berlin | Germany
   geoLocation: 52.50369,13.41956
 
 - name: Gamestorm
@@ -41,7 +41,7 @@
   vimeo: cphgc
   website: http://www.copenhagengamecollective.org/
   email: info@cphgc.org
-  address: Pilestræde 45, 1, 1112 Copenhagen
+  address: Pilestræde 45 | 1 | 1112 Copenhagen
   city: copenhagen
   country: dk
   geoLocation: 55.6811860,12.5790740
@@ -52,7 +52,7 @@
   twitter: GlitchCityLA
   instagram: glitchcityla
   email: glitchcityla@gmail.com
-  address: 8714 Washington Blvd, Culver City, CA 90232
+  address: 8714 Washington Blvd | Culver City | CA 90232
   city: culver city
   state: los angeles
   country: us
@@ -60,7 +60,7 @@
   
 - name: Bergen Game Collective
   website: http://www.bergengamecollective.com/
-  address: Edvard Griegs Vei 3A 5058, Bergen
+  address: Edvard Griegs Vei 3A 5058 | Bergen
   country: no
   city: bergen
   email: aleksander@bergengamecollective.com
@@ -68,11 +68,13 @@
   
 - name: Klondike collective
   coworking: false
+  address: France (Remote)
   country: fr
   personCount: 10
   twitter: klondk
   facebook: klondikecollective
   website: http://klondike.fr/
+  geoLocation: 48.8566140,2.3522220
   
 - name: Juegos Rancheros
   coworking: false
@@ -90,7 +92,9 @@
   facebook: biomecollective
   city: dundee
   country: gb
+  address: Dundee
   established: 2016
+  geoLocation: 56.4620180,-2.9707210
   
 - name: Tripleclaim
   website: http://tripleclaim.com/
@@ -99,14 +103,14 @@
   email: contact@tripleclaim.com
   city: Sarajevo
   country: ba
-  address: Kemala Kapetanovica 36, 7100 Sarajevo
+  address: Kemala Kapetanovica 36 | 7100 Sarajevo
   geoLocation: 43.8509210,18.3889810
   
 - name: Hamar Game Collective
   established: 2012
   county: no
   city: hamar
-  address: Torggata 74, 2317 Hamar, Norway
+  address: Torggata 74 | 2317 Hamar | Norway
   website: http://www.hamargamecollective.com/
   email: contact@hamargamecollective.com
   facebook: HamarGameCollective
@@ -120,7 +124,7 @@
 - name: Bento Miso
   coworking: true
   website: https://bentomiso.com/
-  address: 100 - 862 Richmond Street West Toronto, ON M6J 1C9 Canada
+  address: 100 - 862 Richmond Street West Toronto | ON M6J 1C9 Canada
   country: ca
   city: toronto
   geoLocation: 43.6445310,-79.4122630
@@ -133,12 +137,12 @@
   facebook: playhubs
   twitter: playhubs
   website: http://playhubs.com/
-  address: Somerset House, London, United Kingdom, WC2R 1LA
+  address: Somerset House | London | United Kingdom | WC2R 1LA
   geoLocation: 51.5107320,-0.1169380
   
 - name: Game Play Space
   website: http://gameplayspace.com/
-  address: 1435 St-Alexandre, suite 140, Montreal, QC, Canada
+  address: 1435 St-Alexandre | suite 140 | Montreal | QC | Canada
   email: contact@gameplayspace.com
   twitter: gameplayspace
   facebook: gameplayspace
@@ -153,7 +157,7 @@
   twitter: gamenest
   email: team@thegamenest.com
   established: 2014
-  address: 222 7th St, San Francisco, CA 94103, United States
+  address: 222 7th St | San Francisco | CA 94103 | United States
   city: san francisco
   county: us
   geoLocation: 37.7774500,-122.4093330
@@ -162,7 +166,7 @@
   website: http://phillygameforge.com/
   coworking: true
   events: true
-  address: Philly Game Forge, 239 Chestnut St., Philadelphia, PA 19106
+  address: Philly Game Forge | 239 Chestnut St. | Philadelphia | PA 19106
   city: philadelphia
   state: pa
   county: us
@@ -174,7 +178,7 @@
   facebook: TechValleyGameSpace
   twitter: tvgamespace
   website: http://www.techvalleygamespace.com/
-  address: 30 3rd Street, Troy, NY 12180
+  address: 30 3rd Street | Troy | NY 12180
   city: troy
   state: ny
   country: us
@@ -183,7 +187,7 @@
 - name: Game Assembly
   website: http://gameassembly.org/
   email: admin@gameassembly.org
-  address: 1117 Elm Street Manchester, NH 03101
+  address: 1117 Elm Street Manchester | NH 03101
   city: manchester
   state: nh
   country: us
@@ -193,7 +197,7 @@
   coworking: true
   events: true
   website: http://buffalogamespace.com/
-  address: 2495 Main Street, Suite 454, Buffalo, NY 14214
+  address: 2495 Main Street | Suite 454 | Buffalo | NY 14214
   city: buffalo
   state: ny
   country: us
@@ -211,7 +215,7 @@
   state: wa
   county: us
   established: 2015
-  address: 1534 1st Ave S, Seattle, WA
+  address: 1534 1st Ave S | Seattle | WA
   geoLocation: 47.5890250,-122.3337000
 
 - name: the Arcade
@@ -224,7 +228,7 @@
   coworking: true
   twitter: loumakesgames
   facebook: louisvillemakesgames
-  address: 612 W Washington St Louisville, KY
+  address: 612 W Washington St Louisville | KY
   city: louisville
   state: ky
   country: us
@@ -245,6 +249,7 @@
   coworking: true
   events: true
   website: http://brightongamecollective.com/
+  address: Brighton
   country: en
   city: brighton
   twitter: TheBrightonGC
@@ -255,7 +260,7 @@
   coworking: true
   personCount: 5
   website: http://www.indiegamecollective.org/
-  address: 745 ATLANTIC AVE BOSTON MA 02111
+  address: 745 Atlantic Ave | Boston | MA 02111
   notes: location inside of wework
   country: us
   state: massachusetts
@@ -276,7 +281,7 @@
   coworking: true
   events: true
   website: http://alldaybreakfast.co
-  address: Suite 33, 37–39 Albert Road.
+  address: Suite 33 | 37–39 Albert Road
   city: melbourne
   country: au
   twitter: alldaybrkfst
