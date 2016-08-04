@@ -6,8 +6,12 @@ function addSocial(url, icon, title) {
 }
 
 function addCore(active, icon, title) {
-  if (active) {
+  if (typeof active === 'string') {
+    return '<a href="'+active+'" target="_blank"><i class="fa fa-'+icon+'" title="'+title+'" aria-hidden="true"></i></a>'
+
+  } else if (active) {
     return '<i class="fa fa-'+icon+'" title="'+title+'" aria-hidden="true"></i>'
+
   } else {
     return '<i class="fa fa-'+icon+' inactive" title="'+title+'" aria-hidden="true"></i>'
   }

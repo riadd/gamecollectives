@@ -18,6 +18,8 @@
   website: http://gamestorm-berlin.blogspot.de/
   facebook: gamestormberlin
   twitter: BerlinGamestorm
+  address: Berlin (Remote)
+  geoLocation: 52.5200070,13.4049540
 
 - name: Dutch Game Garden
   coworking: true
@@ -70,7 +72,9 @@
   facebook: JuegosRancheros
   twitter: juegosrancheros
   established: 2011
-  
+  address: Austin
+  geoLocation: 30.2671530,-97.7430610
+
 - name: Biome Collective
   coworking: true
   website: http://www.biomecollective.com/
@@ -176,7 +180,13 @@
   geoLocation: 47.5890250,-122.3337000
 
 - name: the Arcade
+  coworking: http://thearcade.melbourne/#desks
+  established: 2013
   website: thearcade.melbourne/
+  address: Level 2 | 71-75 City Road | Southbank 3006
+  twitter: thearcademelb
+  facebook: TheArcadeMelb
+  geoLocation: -37.8222430,144.9655030
   
 - name: Louisville Makes Games
   website: http://louisvillemakesgames.org
@@ -195,6 +205,7 @@
   established: 2011
   email: info@pigsquad.com
   twitter: PIGSquad
+  geoLocation: 45.5230620,-122.6764820
 
 - name: Brighton Game Collective
   coworking: true
@@ -213,7 +224,12 @@
   notes: location inside of wework
   geoLocation: 42.3503040,-71.0571010
 
-- website: http://babycastles.com
+- name: Babycastles
+  events: http://babycastles.com/calendar
+  coworking: http://babycastles.com/co_working
+  website: http://babycastles.com
+  address: 137 West 14th St | 2nd Fl New York | NY 10011 
+  geoLocation: 40.7383010,-73.9983660
 
 - website: http://sokpop.co
 
