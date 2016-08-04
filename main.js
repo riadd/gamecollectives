@@ -43,10 +43,16 @@ function initInfoWindow(col) {
   // name
   infoTxt += "<h2>"+col.name+"</h2>"
 
-  infoTxt += "<ul>"
-  infoTxt += addProp(col.address, 'Address')
-  infoTxt += addProp(col.established, 'Established')
+  infoTxt += "<ul class='info'>"
+  if (col.address) {infoTxt += '<li>'+col.address+'</li>'}
+  if (col.established) {infoTxt += '<li>Established: '+col.established+'</li>'}
   infoTxt += "</ul>"
+
+  if (col.games) {
+    infoTxt += "<ul class='games'>"
+    col.games.forEach(game => infoTxt += '<li>'+game+'</li>')
+    infoTxt += "</ul>"
+  }
 
   // cores
   infoTxt += "<p>"
@@ -58,6 +64,7 @@ function initInfoWindow(col) {
   if (col.website) {infoTxt += addSocial(col.website, 'globe', 'Website')}
   if (col.facebook) {infoTxt += addSocial('http://facebook.com/'+col.facebook, 'facebook', 'Facebook')}
   if (col.twitter) {infoTxt += addSocial('http://twitter.com/'+col.twitter, 'twitter', 'Twitter')}
+  if (col.instagram) {infoTxt += addSocial('http://instagram.com/'+col.instagram, 'instagram', 'Instagram')}
   if (col.email) {infoTxt += addSocial('mailto:'+col.email, 'envelope', 'E-mail collective')}
   infoTxt += "</p>"
 

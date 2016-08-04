@@ -2,10 +2,9 @@
   coworking: true
   personCount: 11
   established: 2015
-  teams:
-    - Maschinen-Mensch
-    - Studio Fizbin
-    - BerlinGameScene.com
+  games:
+    - The Curious Expedition
+    - The Inner World 2
   twitter: saftladenberlin
   facebook: saftladenberlingames
   website: http://saftladen.berlin
@@ -23,9 +22,8 @@
 
 - name: Dutch Game Garden
   coworking: true
-  teams:
-    - Vlambeer
-    - Wispfire
+  games:
+    - Nuclear Throne
   website: http://www.dutchgamegarden.nl/
   address: Jaarbeursplein 6 | 3521 AL | Utrecht
   geoLocation: 52.0882110,5.1074760
@@ -43,6 +41,9 @@
   
 - name: Glitch City
   website: http://glitch.city
+  games:
+    - Quadrilateral Cowboy
+    - Hyper Light Drifter
   facebook: GlitchCityLA
   twitter: GlitchCityLA
   instagram: glitchcityla
