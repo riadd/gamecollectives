@@ -2,14 +2,11 @@
   coworking: true
   personCount: 11
   established: 2015
-  games:
-    - The Curious Expedition
-    - The Inner World 2
   twitter: saftladenberlin
   facebook: saftladenberlingames
   website: http://saftladen.berlin
   email: info@saftladen.berlin
-  address: Waldemarstr. 37a | 10999 Berlin | Germany
+  address: Adalbertstr. 5 | 10999 Berlin | Germany
   geoLocation: 52.50369,13.41956
 
 - name: Gamestorm
@@ -27,7 +24,7 @@
   website: http://www.dutchgamegarden.nl/
   address: Jaarbeursplein 6 | 3521 AL | Utrecht
   geoLocation: 52.0882110,5.1074760
-  
+
 - name: Copenhagen Game Collective
   coworking: false
   established: 2008
@@ -38,7 +35,7 @@
   email: info@cphgc.org
   address: Pilestræde 45 | 1 | 1112 Copenhagen
   geoLocation: 55.6811860,12.5790740
-  
+
 - name: Glitch City
   website: http://glitch.city
   games:
@@ -50,13 +47,13 @@
   email: glitchcityla@gmail.com
   address: 8714 Washington Blvd | Culver City | CA 90232
   geoLocation: 34.0292870,-118.3842840
-  
+
 - name: Bergen Game Collective
   website: http://www.bergengamecollective.com/
   address: Edvard Griegs Vei 3A 5058 | Bergen
   email: aleksander@bergengamecollective.com
   geoLocation: 60.3730530,5.3411430
-  
+
 - name: Klondike collective
   coworking: false
   address: France (Remote)
@@ -66,7 +63,7 @@
   facebook: klondikecollective
   website: http://klondike.fr/
   geoLocation: 48.8566140,2.3522220
-  
+
 - name: Juegos Rancheros
   coworking: false
   website: http://juegosrancheros.com/
@@ -84,7 +81,7 @@
   address: Dundee
   established: 2016
   geoLocation: 56.4620180,-2.9707210
-  
+
 - name: Tripleclaim
   website: http://tripleclaim.com/
   facebook: TripleClaim
@@ -92,7 +89,7 @@
   email: contact@tripleclaim.com
   address: Kemala Kapetanovica 36 | 7100 Sarajevo
   geoLocation: 43.8509210,18.3889810
-  
+
 - name: Hamar Game Collective
   established: 2012
   address: Torggata 74 | 2317 Hamar | Norway
@@ -105,13 +102,13 @@
     - DOS Studios
     - Sarepta Studio
   geoLocation: 60.7950200,11.0700690
-  
+
 - name: Bento Miso
   coworking: true
   website: https://bentomiso.com/
   address: 100 - 862 Richmond Street West Toronto | ON M6J 1C9 Canada
   geoLocation: 43.6445310,-79.4122630
-  
+
 - name: playhubs
   events: true
   coworking: true
@@ -120,7 +117,7 @@
   website: http://playhubs.com/
   address: Somerset House | London | United Kingdom | WC2R 1LA
   geoLocation: 51.5107320,-0.1169380
-  
+
 - name: Game Play Space
   website: http://gameplayspace.com/
   address: 1435 St-Alexandre | suite 140 | Montreal | QC | Canada
@@ -188,7 +185,7 @@
   twitter: thearcademelb
   facebook: TheArcadeMelb
   geoLocation: -37.8222430,144.9655030
-  
+
 - name: Louisville Makes Games
   website: http://louisvillemakesgames.org
   events: true
@@ -216,7 +213,7 @@
   twitter: TheBrightonGC
   email: contact@brightongamecollective.com
   geoLocation: 50.833524, -0.139584
-  
+
 - name: Indie Game Collective
   coworking: true
   personCount: 5
@@ -229,7 +226,7 @@
   events: http://babycastles.com/calendar
   coworking: http://babycastles.com/co_working
   website: http://babycastles.com
-  address: 137 West 14th St | 2nd Fl New York | NY 10011 
+  address: 137 West 14th St | 2nd Fl New York | NY 10011
   geoLocation: 40.7383010,-73.9983660
 
 - website: http://sokpop.co
@@ -244,5 +241,5 @@
   website: http://alldaybreakfast.co
   address: Suite 33 | 37–39 Albert Road
   twitter: alldaybrkfst
-  email: alldaybreakfastco@gmail.com 
+  email: alldaybreakfastco@gmail.com
   geoLocation: -37.8351160,144.9719960
