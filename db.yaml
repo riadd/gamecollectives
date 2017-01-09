@@ -272,3 +272,12 @@
   twitter: thehouseofindie
   address: Ankerrui 5 | Antwerp | Belgium
   geoLocation: 51.2273800,4.4102050
+
+- name: Indie City Co-op
+  twitter: IndieCityCoop
+  website: http://indiecitycoop.com/
+  established: 2013
+  coworking: true
+  events: true
+  address: 3701 N Ravenswood Ave 206 | Chicago | IL 60613
+  geoLocation: 41.9490450,-87.6733460
