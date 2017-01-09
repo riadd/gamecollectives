@@ -243,3 +243,13 @@
   twitter: alldaybrkfst
   email: alldaybreakfastco@gmail.com
   geoLocation: -37.8351160,144.9719960
+  
+- name: Bristol Games Hub
+  website: http://bristolgameshub.com
+  twitter: bristolgameshub
+  address: 77 Stokes Croft | Bristol BS1 3RD
+  geoLocation: 51.4629600,-2.5901250
+  events: true
+  coworking: true
+  
+  
