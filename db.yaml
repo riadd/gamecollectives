@@ -253,5 +253,10 @@
   coworking: true
   established: 2013
   
+- name: Sweden Game Arena
+  twitter: SwedenGameArena
+  website: http://www.swedengamearena.com 
+  address: Gothia Science Park | Kanikgränd | 541 23 Sködve
+  geoLocation: 58.3930020,13.8585360
   
   
