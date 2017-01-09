@@ -230,7 +230,8 @@
   address: 137 West 14th St | 2nd Fl New York | NY 10011
   geoLocation: 40.7383010,-73.9983660
 
-- website: http://sokpop.co
+- name: sokpop collective
+  website: http://sokpop.co
   twitter: sokpopco
   email: us@sokpop.co
   address: netherlands
