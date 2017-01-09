@@ -75,7 +75,7 @@ function initInfoWindow(col) {
 
 function initMap() {
   var mapOptions = {
-    center: {lat: -34.397, lng: 150.644},
+    center: {lat: 52.50369, lng: 13.41956},
     zoom: 3,
     minZoom: 2,
     maxZoom: 20,
