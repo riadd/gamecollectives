@@ -333,6 +333,7 @@
   website: https://www.facebook.com/groups/mindbh/
   address: Belo Horizonte | MG
   geoLocation: -19.916667,-43.933333
+  established: 2015
   
 - name: GLITCH
   events: true
@@ -354,3 +355,11 @@
   website: https://www.facebook.com/groups/gamedevdf
   address: Brasília | DF
   geoLocation: -15.793889,-47.882778
+
+- name: USC Game Space
+  website: http://uscgamespace.tumblr.com
+  address: Los Angeles | CA
+  geoLocation: 34.0295110,-118.2848200
+  coworking: true  
+  established: 2014
+  
