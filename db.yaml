@@ -292,3 +292,64 @@
   address: Dallas | TX
   geoLocation: 32.9617900,-96.8291690
   
+- name: PAIN
+  events: true
+  website: https://www.facebook.com/groups/1084482171606171
+  email: lucasgmolina@gmail.com
+  address: Porto Alegre | RS
+  geoLocation: -30.032778,-51.23
+
+- name: SPIN
+  events: true
+  facebook: spindevs
+  website: https://www.facebook.com/groups/542586509146343/
+  address: São Paulo | SP
+  geoLocation: -23.55,-46.633333
+
+- name: PONG
+  events: true
+  website: https://www.facebook.com/groups/pongrn/
+  address: Natal | RN
+  geoLocation: -5.783333,-35.2
+
+- name: BIND
+  events: true
+  facebook: bahiaindiedev
+  website: http://bahiaindiedev.com/
+  address: Salvador | BA
+  geoLocation: -12.974722,-38.476667
+  
+- name: RING
+  events: true
+  facebook: encontroring
+  website: http://ringdevrj.com.br/
+  address: Rio de Janeiro | RJ
+  geoLocation: -22.908333,-43.196389
+
+- name: Game Mine BH
+  events: true
+  coworking: true
+  facebook: GameMineBH
+  address: Rua Ignácio Alves Martins 213 | Belo Horizonte | MG
+  geoLocation: -19.916667,-43.933333
+  
+- name: GLITCH
+  events: true
+  facebook: GlitchBauru
+  website: http://www.glitchbauru.com/
+  address: Bauru | SP
+  geoLocation: -22.314722,-49.060556
+
+- name: indie/camp
+  events: true
+  website: https://www.facebook.com/groups/1441287196200418
+  address: Campinas | SP
+  geoLocation: -22.900833,-47.057222
+
+- name: BRING
+  facebook: mostrabring
+  events: true
+  coworking: true
+  website: https://www.facebook.com/groups/gamedevdf
+  address: Brasília | DF
+  geoLocation: -15.793889,-47.882778
