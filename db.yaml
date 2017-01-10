@@ -330,7 +330,8 @@
   events: true
   coworking: true
   facebook: GameMineBH
-  address: Rua Ignácio Alves Martins 213 | Belo Horizonte | MG
+  website: https://www.facebook.com/groups/mindbh/
+  address: Belo Horizonte | MG
   geoLocation: -19.916667,-43.933333
   
 - name: GLITCH
