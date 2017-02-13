@@ -363,3 +363,13 @@
   coworking: true  
   established: 2014
   
+- name: Albuquerque Game Developers Guild 
+  established: 2014
+  events: true
+  email: abqgames@gmail.com
+  website: https://agdg.co
+  twitter: abqgames
+  address: Albuquerque | NM
+  geoLocation: 35.0853340,-106.6055530
+  
+  
