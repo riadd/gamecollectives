@@ -93,6 +93,12 @@ h1 {
   color: #ccc;
 }
 
+table {
+  width: 100%;
+  text-align: left;
+  font-size: 0.9em;
+}
+
 #footer {
   text-align: right;
   font-size: 0.9em;

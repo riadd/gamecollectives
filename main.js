@@ -1,8 +1,11 @@
 
 var map, db, currentInfoWindow;
 
-function addSocial(url, icon, title) {
-  return '<a href="'+url+'" target="_blank"><i class="fa fa-'+icon+'" title="'+title+'" aria-hidden="true"></i></a>'
+function addSocial(url, prefix, icon, title) {
+  if (!url)
+    return ""
+
+  return '<a href="'+prefix+url+'" target="_blank"><i class="fa fa-'+icon+'" title="'+title+'" aria-hidden="true"></i></a>'
 }
 
 function addCore(active, icon, title) {
@@ -61,11 +64,11 @@ function initInfoWindow(col) {
   infoTxt += ' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; '
 
   // social
-  if (col.website) {infoTxt += addSocial(col.website, 'globe', 'Website')}
-  if (col.facebook) {infoTxt += addSocial('http://facebook.com/'+col.facebook, 'facebook', 'Facebook')}
-  if (col.twitter) {infoTxt += addSocial('http://twitter.com/'+col.twitter, 'twitter', 'Twitter')}
-  if (col.instagram) {infoTxt += addSocial('http://instagram.com/'+col.instagram, 'instagram', 'Instagram')}
-  if (col.email) {infoTxt += addSocial('mailto:'+col.email, 'envelope', 'E-mail collective')}
+  infoTxt += addSocial(col.website, '', 'globe', 'Website')
+  infoTxt += addSocial(col.facebook, 'http://facebook.com/', 'facebook', 'Facebook')
+  infoTxt += addSocial(col.twitter, 'http://twitter.com/', 'twitter', 'Twitter')
+  infoTxt += addSocial(col.instagram, 'http://instagram.com/', 'instagram', 'Instagram')
+  infoTxt += addSocial(col.email, 'mailto:', 'envelope', 'E-mail collective')
   infoTxt += "</p>"
 
   infoTxt += "</div>"
@@ -106,6 +109,25 @@ function initMap() {
         currentInfoWindow = infowindow;
         infowindow.open(map, marker);
       });
+
+      return // hack
+
+      lines = [
+        `<tr>`,
+        `<td><a href=${col.website}>${col.name}</a></td>`,
+        `<td>${col.coworking ? "yes" : ""}</td>`,
+        `<td>${col.established ? col.established : ""}</td>`,
+
+        `<td>${addSocial(col.website, '', 'globe', 'Website')}</td>`,
+        `<td>${addSocial(col.facebook, 'http://facebook.com/', 'facebook', 'Facebook')}</td>`,
+        `<td>${addSocial(col.twitter, 'http://twitter.com/', 'twitter', 'Twitter')}</td>`,
+        `<td>${addSocial(col.instagram, 'http://instagram.com/', 'instagram', 'Instagram')}</td>`,
+        `<td>${addSocial(col.email, 'mailto:', 'envelope', 'E-mail collective')}</td>`,
+
+        `</tr>`
+      ]
+      
+      $("table").append(lines.join())
     })
   });
 
