@@ -25,6 +25,26 @@
   address: Jaarbeursplein 6 | 3521 AL | Utrecht
   geoLocation: 52.0882110,5.1074760
 
+- name: Dutch Game Garden Breda
+  homepage: http://dutchgamegarden.nl
+  coworking: true
+  established: 2014
+  twitter: DGG_Breda
+  facebook: gamegardenbreda
+  email: info@dutchgamegarden.nl
+  address: Archimedesstraat 17 | Breda
+  geoLocation: 51.5984460,4.7848460
+
+- name: Dutch Game Garden Twente
+  homepage: http://dutchgamegarden.nl
+  coworking: true
+  established: 2017
+  twitter: DGG_Twente
+  facebook: gamegardentwente
+  email: info@dutchgamegarden.nl
+  address: Brouwerijstraat 1 | Enschede
+  geoLocation: 52.2329870,6.8900060
+
 - name: Copenhagen Game Collective
   coworking: false
   established: 2008
@@ -380,3 +400,175 @@
   established: 2016
   geoLocation: 39.7589480,-84.1916070
   
+- name: Mr. Whale's Game Service
+  homepage: http://www.misterwhale.ch/
+  coworking: false
+  established: 2015
+  twitter: MrWhaleGames
+  facebook: https://www.facebook.com/MisterWhales/
+  email: contact@misterwhale.ch
+  address: Zürich, Switzerland
+  geoLocation: 47.3768870,8.5416940
+
+- name: Pyramida Hub
+  homepage: http://pyramidahub.com
+  coworking: false
+  established: 2016
+  twitter: pyramidahub
+  facebook: https://www.facebook.com/pyramidahub
+  email: pyramidahub@gmail.com
+  address: Garbary 64, Poznan, Poland 61-758
+  geoLocation: 52.4082360,16.9383950
+
+- name: Kurki Collective
+  homepage: http://kurki.games
+  coworking: false
+  established: 2016
+  twitter: KurkiGames
+  facebook: https://www.facebook.com/KurkiGames/?fref=ts
+  email: kurki.games@gmail.com
+  address: Poland
+  geoLocation: 51.9194380,19.1451360
+
+- name: Contralto Game Collective
+  homepage: http://gamecollective.it
+  address: Milan, Italy
+  coworking: false
+  established: 2017
+  twitter: ctrlto
+  facebook: https://www.facebook.com/Contralto-117675072109944/
+  email: contraltocollective@gmail.com
+  geoLocation: 45.4642040,9.1899820
+
+- name: Play-Fool
+  homepage: http://www.play-full.net/
+  address: Rennes, France
+  coworking: false
+  established: 2011
+  email: contact@play-full.net
+  geoLocation: 48.1172660,-1.6777930
+
+- name: Run Jump Dev
+  homepage: http://runjumpdev.org/
+  coworking: false
+  twitter: runjumpdev
+  established: 2011
+  facebook: https://www.facebook.com/runjumpdev
+  address: Lexington, Kentucky, USA
+  geoLocation: 38.0405840,-84.5037160
+  email: john@supersoul.co
+
+- name: Cleveland Game Developers
+  homepage: http://clevelandgamedevs.com/
+  coworking: false
+  twitter: CleGameDevs
+  facebook: https://www.facebook.com/groups/clevelandgamedevs
+  meetup: clevelandgamedev
+  address: Cleveland, Ohio, USA
+  geoLocation: 41.4993200,-81.6943610
+
+- name: Square One Clubs
+  homepage: http://www.squareoneclubs.com
+  coworking: true
+  established: 2016
+  twitter: squareoneclubs
+  facebook: squareoneclubs
+  instagram: squareoneclubs
+  email: info@squareoneclubs.com
+  address: 9342 Tech Center Drive 600, Sacramento, CA, 95825
+  geoLocation: 38.5633320,-121.3512150
+
+- name: Dirty Rectangles
+  homepage: http://www.dirtyrectangles.com/
+  coworking: true
+  established: 2010
+  twitter: dirtyrectangles
+  facebook: https://www.facebook.com/DirtyRectangles/
+  email: hello@dirtyrectangles.com
+  address: Ottawa, Canada
+  geoLocation: 45.4215300,-75.6971930
+
+- name: CB2Indies
+  homepage: cb2indies
+  coworking: false
+  twitter: cb2indies
+  facebook: https://www.facebook.com/CB2Indies
+  address: Cambridge, UK
+  geoLocation: 52.2053370,0.1218170
+
+- name: Game Dev Happy Hour
+  homepage: http://www.gamedevhappyhour.com
+  coworking: false
+  established: 2010
+  twitter: gamedevhh
+  address: Hong Kong
+  geoLocation: 22.3964280,114.1094970
+
+- name: ALINEAIRE
+  homepage: http://www.alineaire.com
+  coworking: false
+  established: 2013
+  twitter: alineaire_group
+  facebook: https://m.facebook.com/alineairegroup
+  instagram: alineairegroup
+  email: contact@alineaire.com
+  address: Paris, France
+  geoLocation: 48.8566140,2.3522220
+
+- name: PotLuck Collective
+  homepage: PotLvckCo
+  coworking: false
+  established: 2017
+  twitter: PotLvckCo
+  facebook: https://facebook.com/PotLvckCo/
+  address: Perth, Western Australia
+  geoLocation: -31.9505270,115.8604570
+
+- name: hiloqo
+  homepage: https://hiloqo.itch.io/
+  coworking: false
+  established: 2017
+  twitter: hiloqoco
+  email: hiloqo.games@gmail.com
+  address: Valenciennes, France
+  geoLocation: 50.3571130,3.5183320
+
+- name: Game Plus 
+  homepage: http://www.gameplus.com.au
+  coworking: true
+  established: 2016
+  twitter: workatgameplus
+  facebook: https://www.facebook.com/workatgameplus
+  email: contact@gameplus.com.au
+  address: 49 Phillip Avenue, Watson, ACT 2602, Australia
+  geoLocation: -35.2399720,149.1480930
+
+- name: Flyover Indies
+  homepage: https://flyoverindies.party/
+  coworking: true
+  established: 2014
+  twitter: FlyoverIndies
+  facebook: https://www.facebook.com/flyoverindies/
+  email: contact@flyoverindies.party
+  address: Kansas City, MO
+  geoLocation: 39.0997270,-94.5785670
+
+- name: APOIL
+  homepage: http://apoil.info/
+  coworking: false
+  established: 2004
+  twitter: apoilasso
+  facebook: https://www.facebook.com/associationpassionnesoeuvresinteractivesetludiques/
+  email: apoil.asso@gmail.com
+  address: 399 Rue du Doyen André-Guinier, Bures-sur-Yvette
+  geoLocation: 48.7014400,2.1652760
+
+- name: Enthusiasm Collective
+  homepage: http://enthusiasmcollective.com
+  coworking: true
+  established: 2017
+  twitter: enthusiasmco
+  facebook: https://www.facebook.com/Enthusiasm-Collective-729460087231718/
+  email: enthusiasmco@gmail.com
+  address: Portland, OR
+  geoLocation: 45.5230620,-122.6764820
