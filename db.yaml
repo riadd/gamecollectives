@@ -572,3 +572,21 @@
   email: enthusiasmco@gmail.com
   address: Portland, OR
   geoLocation: 45.5230620,-122.6764820
+
+- name: Warp Zone
+  address: Louisville, KY
+  
+- name: Another Castle
+  address: Greenfield, MA
+
+- name: Gamma Space Collaborative Studio
+  address: Toronto, Canada
+
+- name: Indie Warehouse
+  address: Brasilia, Brazil
+
+- name: Arch Creatives
+  address: Leamington Spa, United Kingdom
+
+- name: The Arcade
+  address: Melbourne, Australia
