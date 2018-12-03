@@ -83,7 +83,8 @@
   twitter: klondk
   facebook: klondikecollective
   website: http://klondike.fr/
-  geoLocation: 48.8566140,2.3522220
+  geoLocation: 50.6202120,3.0654940
+  email: klondikecollective@gmail.com
 
 - name: Juegos Rancheros
   coworking: false
@@ -576,17 +577,60 @@
 - name: Warp Zone
   address: Louisville, KY
   
-- name: Another Castle
-  address: Greenfield, MA
-
 - name: Gamma Space Collaborative Studio
   address: Toronto, Canada
-
-- name: Indie Warehouse
-  address: Brasilia, Brazil
 
 - name: Arch Creatives
   address: Leamington Spa, United Kingdom
 
 - name: The Arcade
   address: Melbourne, Australia
+
+- name: Indie Warehouse
+  homepage: http://www.indiewarehouse.com.br
+  coworking: true
+  events: true
+  established: 2017
+  twitter: indie_warehouse
+  instagram: indiewarehouse
+  email: contato@indiewarehouse.com.br
+  address: SHIN CA 7 Lote 16 | Brasilia | Brazil
+  geoLocation: -15.717742415,-47.886838347
+
+- name: zamSpielenCollective
+  homepage: http://zamspielen.tumblr.com/about
+  coworking: false
+  events: true
+  established: 2010
+  twitter: zamSpielen
+  facebook: https://de-de.facebook.com/zamspielen/
+  address: Schaustelle | Margaretenstraße 106 | Vienna | Austria
+
+- name: Another Castle
+  homepage: https://www.anothercastledev.com
+  coworking: true
+  events: true
+  established: 2017
+  twitter: AnotherCastleMa
+  email: info@anothercastledev.com
+  address: 30 Olive Street | Greenfield | MA | 01301 | USA
+  geoLocation: 42.5860169,-72.5996520
+
+- name: IfGameSH
+  homepage: http://www.ifgamesh.de
+  coworking: true
+  events: true
+  established: 2018
+  twitter: IndieGameSH
+  email: contact@ifgamesh.de
+  address: Kuhnkestr. 6 | 24118 Kiel | Germany
+  geoLocation: 54.3412949,10.1212435
+
+- name: Briana Aea
+  coworking: false
+  events: true
+  established: 2013
+  facebook: https://www.facebook.com/SacramentoGameDevelopers/
+  twitter: sacgamedev
+  instagram: sacdevcollective
+  email: Baea28@gmail.com 
