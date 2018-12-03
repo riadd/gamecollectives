@@ -97,11 +97,22 @@ table {
   width: 100%;
   text-align: left;
   font-size: 0.9em;
+  margin: 50px 0;
+  border: 1px solid #444;
+  padding: 10px;
 }
+
+table td.name a {
+  border-bottom: 1px dashed #eee;
+}
+
+tr:nth-child(even) {background: #222}
+tr:nth-child(odd) {background: #252525}
 
 #footer {
   text-align: right;
   font-size: 0.9em;
+  margin-top: 100px;
 }
 
 #footer i {

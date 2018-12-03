@@ -110,11 +110,9 @@ function initMap() {
         infowindow.open(map, marker);
       });
 
-      return // hack
-
       lines = [
         `<tr>`,
-        `<td><a href=${col.website}>${col.name}</a></td>`,
+        `<td class=name><a href=${col.website}>${col.name}</a></td>`,
         `<td>${col.coworking ? "yes" : ""}</td>`,
         `<td>${col.established ? col.established : ""}</td>`,
 
@@ -122,7 +120,6 @@ function initMap() {
         `<td>${addSocial(col.facebook, 'http://facebook.com/', 'facebook', 'Facebook')}</td>`,
         `<td>${addSocial(col.twitter, 'http://twitter.com/', 'twitter', 'Twitter')}</td>`,
         `<td>${addSocial(col.instagram, 'http://instagram.com/', 'instagram', 'Instagram')}</td>`,
-        `<td>${addSocial(col.email, 'mailto:', 'envelope', 'E-mail collective')}</td>`,
 
         `</tr>`
       ]
